@@ -32,4 +32,4 @@ _In this project I will use the following technologies._
 
 ###### Team
 * Gonçalo Fontes [@Goncal01](https://github.com/Goncal01)
-* Ronilde [@ronilde](https://github.com/ronilde).
+* Ronilde [@ronilde](https://github.com/ronilde)
