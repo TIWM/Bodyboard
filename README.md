@@ -17,13 +17,12 @@ _In this project I will use the following technologies._
 * JQuery
 * PHPMailer
 ### Project presentation
-* C1: [Project presentation](doc/c1.md)
+* C1: [Project presentation](https://github.com/TIWM/Bodyboard/blob/main/Doc/c1.md)
 ### User Interface 
 * C2: [User Interface Prototype and Sitemap](doc/c2.md)
 ### Product
-* C3: [Product](doc/c3.md)
-### Presentation
-* C4: [Presentation](doc/c4.md)
+* C3: [Product](https://github.com/TIWM/Bodyboard/blob/main/Doc/c2.md)
+
 ## Team
 * Gonçalo Fontes [@Goncal01](https://github.com/Goncal01)
 * Ronilde [@ronilde](https://github.com/ronilde).
