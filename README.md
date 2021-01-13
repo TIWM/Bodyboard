@@ -11,11 +11,11 @@ The theme of our work is Bodyboard. As a practitioner of this sport, we have cho
 * FSP page: This page will talk about what is the FSP and mentions the main national champions. 
 * Gallery page: This page shows an image gallery and a form.
 * Beaches page: This page shows some beaches most used for this sport.
-### Short theme description
+#### Short theme description
 
 An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
 
-## Technologies
+##### Technologies
 
 _In this project I will use the following technologies._
 * [XML](https://www.w3.org/standards/xml/core.html)
@@ -24,12 +24,12 @@ _In this project I will use the following technologies._
 * [Javascript](https://www.javascript.com/)
 * [PHP](https://www.php.net/)
 
-### Frameworks and Libraries
+###### Frameworks and Libraries
 
 * JQuery
 * PHPMailer
 
 
-## Team
+###### Team
 * Gonçalo Fontes [@Goncal01](https://github.com/Goncal01)
 * Ronilde [@ronilde](https://github.com/ronilde).
