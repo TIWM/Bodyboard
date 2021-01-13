@@ -25,7 +25,8 @@
 					<li><a href="index.html">Home</a></li>
 					<li><a href="elements.html">Elements</a></li>
                     <li><a href="generic.html">Generic</a></li>
-                    <li><a href="#">Galeria</a></li>
+					<li><a href="#">Galeria</a></li>
+					<li><a href="html.html">Galeria</a></li>
 				</ul>
 			</nav>
 
