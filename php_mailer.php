@@ -9,16 +9,14 @@ require 'phpmailer\phpmailer\src\PHPMailer.php';
 require 'phpmailer\phpmailer\src\SMTP.php';
 require 'phpmailer\phpmailer\src\Exception.php';
 
-// Load Composer's autoloader
 require 'vendor/autoload.php';
 
-// Instantiation and passing `true` enables exceptions
 $mail = new PHPMailer(true);
 
 try {
     //Server settings
-    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
-    $mail->isSMTP();                                            // Send using SMTP
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                     
+    $mail->isSMTP();                                           
     $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
     $mail->Username   = 'bodyboard.ismai@gmail.com';                     // SMTP username

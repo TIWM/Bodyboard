@@ -1,8 +1,11 @@
-# My work assignment Title
+# Project Presentation
 
 Repository to host the project developed for 'Tecnologias de Internet', a fisrt year subject at IPMAI. Developed byTIWM : [@Goncal01](https://github.com/Goncal01), [@ronilde](https://github.com/ronilde).
 
-## Short theme description
+## Project Presentation
+The theme of our work is Bodyboard. As a practitioner of this sport, we have chosen to create a website on this sport, to make this extreme sport known that can be practiced by everyone, in perfect communion with Nature.
+
+### Short theme description
 
 An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
 
