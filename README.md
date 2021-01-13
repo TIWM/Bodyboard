@@ -8,7 +8,7 @@ The theme of our work is Bodyboard. As a practitioner of this sport, we have cho
 ### Product Description 
 * home page: This page will talk about what Bodyboard is and what it consists of and how the sport came about. 
 * APBT page: This page will talk about what the APBT is and mentions the main world champions. 
-* FSP page: This page will talk about what is the FSP mentions the main national champions. 
+* FSP page: This page will talk about what is the FSP and mentions the main national champions. 
 * Gallery page: This page shows an image gallery and a form.
 * Beaches page: This page shows some beaches most used for this sport.
 ### Short theme description
